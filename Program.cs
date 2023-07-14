@@ -8,8 +8,8 @@ namespace HomeworkSeminar10072023
         {
             try
             {
-                Console.WriteLine("Задача №41");
-                Task41.MoreZero();
+                Console.WriteLine("Задача №43");
+                Task43.InterestionDot();
             }
             catch (Exception ex)
             {
